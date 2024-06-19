@@ -1,2 +1,0 @@
-# karunakar
-python task
